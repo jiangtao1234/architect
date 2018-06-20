@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/architect.iml" filepath="$PROJECT_DIR$/.idea/modules/architect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/architect_main.iml" filepath="$PROJECT_DIR$/.idea/modules/architect_main.iml" group="architect" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/architect_test.iml" filepath="$PROJECT_DIR$/.idea/modules/architect_test.iml" group="architect" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jvm-core.iml" filepath="$PROJECT_DIR$/.idea/modules/jvm-core.iml" group="jvm-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jvm-core/jvm-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jvm-core/jvm-core_main.iml" group="jvm-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jvm-core/jvm-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jvm-core/jvm-core_test.iml" group="jvm-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jvm-web.iml" filepath="$PROJECT_DIR$/.idea/modules/jvm-web.iml" group="jvm-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jvm-web/jvm-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jvm-web/jvm-web_main.iml" group="jvm-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jvm-web/jvm-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jvm-web/jvm-web_test.iml" group="jvm-web" />
+    </modules>
+  </component>
+</project>

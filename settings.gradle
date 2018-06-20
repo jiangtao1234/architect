@@ -1,0 +1,4 @@
+rootProject.name = 'architect'
+include 'jvm-core'
+include 'jvm-web'
+
