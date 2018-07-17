@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: jvm-core
+Implementation-Version: 1.0.0
+Class-Path: . lib/lombok-1.16.8.jar lib/commons-lang3-3.0.jar
+Main-Class: way.architect.jvm.core.clazz.TestJar
+

@@ -18,6 +18,7 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Gradle: org.projectlombok:lombok:1.16.8" />
+          <element id="library" level="project" name="Gradle: org.apache.commons:commons-lang3:3.0" />
         </element>
       </element>
     </root>
