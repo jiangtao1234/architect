@@ -1,3 +1,4 @@
+// gradle构建多项目 如果子项目构建脚本不是默认 需在settings.gradle里指定project(':xy-data-center-service-processor').buildFileName='buildInnerJar.gradle'
 // gradle -b jvm-core/build.gradle jar
 group 'way'
 version '1.0-SNAPSHOT'
